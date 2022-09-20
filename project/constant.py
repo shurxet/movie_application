@@ -1,0 +1,5 @@
+JWT_SECRET = 'secret_key'
+JWT_ALGO = 'HS256'
+HASH_ALGO = 'sha256'
+HASH_SALT = 'salt'
+HASH_ITERATIONS = 100_000
